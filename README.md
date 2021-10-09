@@ -19,8 +19,9 @@ This 1 python file -
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Windows, Mac, Linux
+* Latest Python Release
+* Libraries - pandas, numpy, matlibplot, tensorflow, keras, sklearn (all these libraries can be installed using pip command)
 
 ### Installing
 
@@ -44,10 +45,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[@divijwadhawan](https://linkedin.com/in/divijwadhawan/)
 
 ## Version History
 
