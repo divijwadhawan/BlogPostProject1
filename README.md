@@ -44,7 +44,6 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [Kaggle seattle comptetition](https://www.kaggle.com/airbnb/seattle)
 * [Udacity](https://classroom.udacity.com/)
 * [Kaggle amritanshk submission](https://www.kaggle.com/amritanshk/price-prediction)
