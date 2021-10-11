@@ -35,12 +35,12 @@ If you need help or facing issues, you can write to wwdivij@gmail.com
 
 ## Authors
 
-[@divijwadhawan](https://linkedin.com/in/divijwadhawan/)
-
+[@divijwadhawan](https://github.com/divijwadhawan)
+[@blog](https://medium.com/@wwdivij/start-your-data-science-learning-with-airbnb-seattle-analysis-example-98798d29f778)
 ## Version History
 
-* 0.1
-    * Initial Release
+* 0.2
+    * Initial Release with modified comments from Udacity
 
 ## Acknowledgments
 
